@@ -1,6 +1,6 @@
 {
   "name": "probability-pick",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "scripts": {
     "build": "tsc",
@@ -27,5 +27,6 @@
   "types": "dist/index.d.ts",
   "keywords": [],
   "author": "lukigarazus",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/lukigarazus/probability-pick"
 }
